@@ -108,8 +108,8 @@ id: San Marino
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./San_Marino/
-markerFolder: ./San_Marino//
+geojsonFolder: ./
+markerFolder: .//
 ```
 
 [name-en::San Marino] 
