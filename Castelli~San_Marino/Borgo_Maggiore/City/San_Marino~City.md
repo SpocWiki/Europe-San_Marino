@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.45] 
-[geo-lat::43.93] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.45] 
+[has_place_latitude::43.93] 
 [name::San Marino] 
 State ::  
 Country :: [[San_Marino]]  
