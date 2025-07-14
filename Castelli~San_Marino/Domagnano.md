@@ -40,11 +40,16 @@ markerFolder: ./Domagnano/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/San_Marino/Counties/Domagnano|Domagnano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/San_Marino/Counties/Domagnano.public|Domagnano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/San_Marino/Counties/Domagnano.internal|Domagnano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/San_Marino/Counties/Domagnano.protect|Domagnano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/San_Marino/Counties/Domagnano.private|Domagnano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/San_Marino/Counties/Domagnano.personal|Domagnano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/San_Marino/Counties/Domagnano.secret|Domagnano.secret]] 
+
+### [Domagnano.public](/_public/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoDomagnano.public.md) 
+
+### [Domagnano.internal](/_internal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoDomagnano.internal.md) 
+
+### [Domagnano.protect](/_protect/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoDomagnano.protect.md) 
+
+### [Domagnano.private](/_private/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoDomagnano.private.md) 
+
+### [Domagnano.personal](/_personal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoDomagnano.personal.md) 
+
+### [Domagnano.secret](/_secret/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoDomagnano.secret.md)
 

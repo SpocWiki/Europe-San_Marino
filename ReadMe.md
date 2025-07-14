@@ -129,12 +129,17 @@ Capital :: [[San_Marino]]
 [has_place_latitude::43.93] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~South/San_Marino|San_Marino]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~South/San_Marino.public|San_Marino.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~South/San_Marino.internal|San_Marino.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~South/San_Marino.protect|San_Marino.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~South/San_Marino.private|San_Marino.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~South/San_Marino.personal|San_Marino.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~South/San_Marino.secret|San_Marino.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~South\San_MarinoReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~South\San_MarinoReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~South\San_MarinoReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~South\San_MarinoReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~South\San_MarinoReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~South\San_MarinoReadMe.secret.md)
+

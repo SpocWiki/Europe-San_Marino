@@ -40,11 +40,16 @@ markerFolder: ./Acquaviva/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/San_Marino/Counties/Acquaviva|Acquaviva]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/San_Marino/Counties/Acquaviva.public|Acquaviva.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/San_Marino/Counties/Acquaviva.internal|Acquaviva.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/San_Marino/Counties/Acquaviva.protect|Acquaviva.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/San_Marino/Counties/Acquaviva.private|Acquaviva.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/San_Marino/Counties/Acquaviva.personal|Acquaviva.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/San_Marino/Counties/Acquaviva.secret|Acquaviva.secret]] 
+
+### [Acquaviva.public](/_public/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoAcquaviva.public.md) 
+
+### [Acquaviva.internal](/_internal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoAcquaviva.internal.md) 
+
+### [Acquaviva.protect](/_protect/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoAcquaviva.protect.md) 
+
+### [Acquaviva.private](/_private/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoAcquaviva.private.md) 
+
+### [Acquaviva.personal](/_personal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoAcquaviva.personal.md) 
+
+### [Acquaviva.secret](/_secret/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoAcquaviva.secret.md)
 

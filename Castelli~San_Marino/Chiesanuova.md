@@ -40,11 +40,16 @@ markerFolder: ./Chiesanuova/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/San_Marino/Counties/Chiesanuova|Chiesanuova]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/San_Marino/Counties/Chiesanuova.public|Chiesanuova.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/San_Marino/Counties/Chiesanuova.internal|Chiesanuova.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/San_Marino/Counties/Chiesanuova.protect|Chiesanuova.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/San_Marino/Counties/Chiesanuova.private|Chiesanuova.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/San_Marino/Counties/Chiesanuova.personal|Chiesanuova.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/San_Marino/Counties/Chiesanuova.secret|Chiesanuova.secret]] 
+
+### [Chiesanuova.public](/_public/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoChiesanuova.public.md) 
+
+### [Chiesanuova.internal](/_internal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoChiesanuova.internal.md) 
+
+### [Chiesanuova.protect](/_protect/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoChiesanuova.protect.md) 
+
+### [Chiesanuova.private](/_private/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoChiesanuova.private.md) 
+
+### [Chiesanuova.personal](/_personal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoChiesanuova.personal.md) 
+
+### [Chiesanuova.secret](/_secret/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoChiesanuova.secret.md)
 

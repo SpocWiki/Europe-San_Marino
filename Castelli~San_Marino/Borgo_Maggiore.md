@@ -40,11 +40,16 @@ markerFolder: ./Borgo_Maggiore/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/San_Marino/Counties/Borgo_Maggiore|Borgo_Maggiore]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/San_Marino/Counties/Borgo_Maggiore.public|Borgo_Maggiore.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/San_Marino/Counties/Borgo_Maggiore.internal|Borgo_Maggiore.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/San_Marino/Counties/Borgo_Maggiore.protect|Borgo_Maggiore.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/San_Marino/Counties/Borgo_Maggiore.private|Borgo_Maggiore.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/San_Marino/Counties/Borgo_Maggiore.personal|Borgo_Maggiore.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/San_Marino/Counties/Borgo_Maggiore.secret|Borgo_Maggiore.secret]] 
+
+### [Borgo_Maggiore.public](/_public/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoBorgo_Maggiore.public.md) 
+
+### [Borgo_Maggiore.internal](/_internal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoBorgo_Maggiore.internal.md) 
+
+### [Borgo_Maggiore.protect](/_protect/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoBorgo_Maggiore.protect.md) 
+
+### [Borgo_Maggiore.private](/_private/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoBorgo_Maggiore.private.md) 
+
+### [Borgo_Maggiore.personal](/_personal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoBorgo_Maggiore.personal.md) 
+
+### [Borgo_Maggiore.secret](/_secret/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoBorgo_Maggiore.secret.md)
 

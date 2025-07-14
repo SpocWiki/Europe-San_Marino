@@ -40,11 +40,16 @@ markerFolder: ./Faetano/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/San_Marino/Counties/Faetano|Faetano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/San_Marino/Counties/Faetano.public|Faetano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/San_Marino/Counties/Faetano.internal|Faetano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/San_Marino/Counties/Faetano.protect|Faetano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/San_Marino/Counties/Faetano.private|Faetano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/San_Marino/Counties/Faetano.personal|Faetano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/San_Marino/Counties/Faetano.secret|Faetano.secret]] 
+
+### [Faetano.public](/_public/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoFaetano.public.md) 
+
+### [Faetano.internal](/_internal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoFaetano.internal.md) 
+
+### [Faetano.protect](/_protect/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoFaetano.protect.md) 
+
+### [Faetano.private](/_private/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoFaetano.private.md) 
+
+### [Faetano.personal](/_personal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoFaetano.personal.md) 
+
+### [Faetano.secret](/_secret/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoFaetano.secret.md)
 

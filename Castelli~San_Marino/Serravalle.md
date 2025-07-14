@@ -40,11 +40,16 @@ markerFolder: ./Serravalle/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/San_Marino/Counties/Serravalle|Serravalle]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/San_Marino/Counties/Serravalle.public|Serravalle.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/San_Marino/Counties/Serravalle.internal|Serravalle.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/San_Marino/Counties/Serravalle.protect|Serravalle.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/San_Marino/Counties/Serravalle.private|Serravalle.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/San_Marino/Counties/Serravalle.personal|Serravalle.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/San_Marino/Counties/Serravalle.secret|Serravalle.secret]] 
+
+### [Serravalle.public](/_public/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoSerravalle.public.md) 
+
+### [Serravalle.internal](/_internal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoSerravalle.internal.md) 
+
+### [Serravalle.protect](/_protect/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoSerravalle.protect.md) 
+
+### [Serravalle.private](/_private/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoSerravalle.private.md) 
+
+### [Serravalle.personal](/_personal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoSerravalle.personal.md) 
+
+### [Serravalle.secret](/_secret/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoSerravalle.secret.md)
 
