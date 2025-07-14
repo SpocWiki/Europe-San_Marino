@@ -41,15 +41,17 @@ markerFolder: ./Serravalle/
 
 ## Confidential Links & Embeds: 
 
-### [Serravalle.public](/_public/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoSerravalle.public.md) 
+### [Serravalle](/_Standards/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Serravalle.md) 
 
-### [Serravalle.internal](/_internal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoSerravalle.internal.md) 
+### [Serravalle.public](/_public/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Serravalle.public.md) 
 
-### [Serravalle.protect](/_protect/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoSerravalle.protect.md) 
+### [Serravalle.internal](/_internal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Serravalle.internal.md) 
 
-### [Serravalle.private](/_private/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoSerravalle.private.md) 
+### [Serravalle.protect](/_protect/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Serravalle.protect.md) 
 
-### [Serravalle.personal](/_personal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoSerravalle.personal.md) 
+### [Serravalle.private](/_private/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Serravalle.private.md) 
 
-### [Serravalle.secret](/_secret/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoSerravalle.secret.md)
+### [Serravalle.personal](/_personal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Serravalle.personal.md) 
+
+### [Serravalle.secret](/_secret/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Serravalle.secret.md)
 

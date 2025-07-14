@@ -41,15 +41,17 @@ markerFolder: ./Montegiardino/
 
 ## Confidential Links & Embeds: 
 
-### [Montegiardino.public](/_public/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoMontegiardino.public.md) 
+### [Montegiardino](/_Standards/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Montegiardino.md) 
 
-### [Montegiardino.internal](/_internal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoMontegiardino.internal.md) 
+### [Montegiardino.public](/_public/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Montegiardino.public.md) 
 
-### [Montegiardino.protect](/_protect/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoMontegiardino.protect.md) 
+### [Montegiardino.internal](/_internal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Montegiardino.internal.md) 
 
-### [Montegiardino.private](/_private/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoMontegiardino.private.md) 
+### [Montegiardino.protect](/_protect/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Montegiardino.protect.md) 
 
-### [Montegiardino.personal](/_personal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoMontegiardino.personal.md) 
+### [Montegiardino.private](/_private/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Montegiardino.private.md) 
 
-### [Montegiardino.secret](/_secret/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoMontegiardino.secret.md)
+### [Montegiardino.personal](/_personal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Montegiardino.personal.md) 
+
+### [Montegiardino.secret](/_secret/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Montegiardino.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Domagnano/
 
 ## Confidential Links & Embeds: 
 
-### [Domagnano.public](/_public/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoDomagnano.public.md) 
+### [Domagnano](/_Standards/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Domagnano.md) 
 
-### [Domagnano.internal](/_internal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoDomagnano.internal.md) 
+### [Domagnano.public](/_public/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Domagnano.public.md) 
 
-### [Domagnano.protect](/_protect/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoDomagnano.protect.md) 
+### [Domagnano.internal](/_internal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Domagnano.internal.md) 
 
-### [Domagnano.private](/_private/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoDomagnano.private.md) 
+### [Domagnano.protect](/_protect/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Domagnano.protect.md) 
 
-### [Domagnano.personal](/_personal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoDomagnano.personal.md) 
+### [Domagnano.private](/_private/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Domagnano.private.md) 
 
-### [Domagnano.secret](/_secret/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_MarinoDomagnano.secret.md)
+### [Domagnano.personal](/_personal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Domagnano.personal.md) 
+
+### [Domagnano.secret](/_secret/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Domagnano.secret.md)
 

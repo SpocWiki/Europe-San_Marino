@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [San_Marino~City.public](/_public/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_Marino\Borgo_Maggiore\CitySan_Marino~City.public.md) 
+### [San_Marino~City](/_Standards/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.md) 
 
-### [San_Marino~City.internal](/_internal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_Marino\Borgo_Maggiore\CitySan_Marino~City.internal.md) 
+### [San_Marino~City.public](/_public/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.public.md) 
 
-### [San_Marino~City.protect](/_protect/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_Marino\Borgo_Maggiore\CitySan_Marino~City.protect.md) 
+### [San_Marino~City.internal](/_internal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.internal.md) 
 
-### [San_Marino~City.private](/_private/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_Marino\Borgo_Maggiore\CitySan_Marino~City.private.md) 
+### [San_Marino~City.protect](/_protect/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.protect.md) 
 
-### [San_Marino~City.personal](/_personal/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_Marino\Borgo_Maggiore\CitySan_Marino~City.personal.md) 
+### [San_Marino~City.private](/_private/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.private.md) 
 
-### [San_Marino~City.secret](/_secret/\Earth\Continent\Europe\Europe~South\San_Marino\Castelli~San_Marino\Borgo_Maggiore\CitySan_Marino~City.secret.md)
+### [San_Marino~City.personal](/_personal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.personal.md) 
+
+### [San_Marino~City.secret](/_secret/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.secret.md)
 
