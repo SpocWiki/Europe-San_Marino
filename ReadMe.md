@@ -1,35 +1,36 @@
 ---
 location:
-- 43.93
-- 12.45
+  - 43.93
+  - 12.45
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27020
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: San Marino
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- San Marino
-- Saint-Marin
-- سان مارينو
-- 圣马力诺
-- Сан-Марино
-- the Republic of San Marino
-- la República de San Marino
+  - San Marino
+  - Saint-Marin
+  - سان مارينو
+  - 圣马力诺
+  - Сан-Марино
+  - the Republic of San Marino
+  - la República de San Marino
 Languages:
-- it-SM
+  - it-SM
 ---
 
 
