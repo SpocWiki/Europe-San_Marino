@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Borgo_Maggiore
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Borgo_Maggiore/
 markerFolder: ./Borgo_Maggiore/

@@ -105,7 +105,7 @@ Sub-region_Name ::  [[Southern Europe]]
 ```leaflet
 id: San Marino
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: .// 
 markerFolder: .//
