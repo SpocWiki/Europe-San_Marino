@@ -21,7 +21,7 @@ State ::
 Country :: [[San_Marino]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
