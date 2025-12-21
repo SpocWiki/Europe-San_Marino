@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Borgo_Maggiore
+  - Borgo Maggiore
 location:
   - 43.94
   - 12.43
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Borgo_Maggiore
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Borgo_Maggiore

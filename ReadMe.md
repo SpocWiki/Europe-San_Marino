@@ -1,4 +1,13 @@
 ---
+aliases:
+  - San Marino
+  - Saint-Marin
+  - سان مارينو
+  - 圣马力诺
+  - Сан-Марино
+  - the Republic of San Marino
+  - la República de San Marino
+  - ReadMe
 location:
   - 43.93
   - 12.45
@@ -15,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: San Marino
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - San Marino
-  - Saint-Marin
-  - سان مارينو
-  - 圣马力诺
-  - Сан-Марино
-  - the Republic of San Marino
-  - la República de San Marino
+publishDate: ''
+expiryDate: ''
 Languages:
   - it-SM
 ---

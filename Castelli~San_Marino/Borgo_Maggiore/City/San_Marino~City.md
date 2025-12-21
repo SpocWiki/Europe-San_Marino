@@ -1,16 +1,20 @@
 ---
-location: [43.93,12.45] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - San_Marino~City
+  - San Marino~City
+location:
+  - 43.93
+  - 12.45
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33917
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
