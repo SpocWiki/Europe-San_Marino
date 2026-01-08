@@ -40,17 +40,17 @@ markerFolder: ./Fiorentino/
 
 ## Confidential Links & Embeds: 
 
-### [Fiorentino](/_Standards/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Fiorentino.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Fiorentino|Fiorentino]] 
 
-### [Fiorentino.public](/_public/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Fiorentino.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Fiorentino.public|Fiorentino.public]] 
 
-### [Fiorentino.internal](/_internal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Fiorentino.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Fiorentino.internal|Fiorentino.internal]] 
 
-### [Fiorentino.protect](/_protect/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Fiorentino.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Fiorentino.protect|Fiorentino.protect]] 
 
-### [Fiorentino.private](/_private/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Fiorentino.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Fiorentino.private|Fiorentino.private]] 
 
-### [Fiorentino.personal](/_personal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Fiorentino.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Fiorentino.personal|Fiorentino.personal]] 
 
-### [Fiorentino.secret](/_secret/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Fiorentino.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Fiorentino.secret|Fiorentino.secret]] 
 

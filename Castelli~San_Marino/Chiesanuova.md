@@ -40,17 +40,17 @@ markerFolder: ./Chiesanuova/
 
 ## Confidential Links & Embeds: 
 
-### [Chiesanuova](/_Standards/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Chiesanuova.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Chiesanuova|Chiesanuova]] 
 
-### [Chiesanuova.public](/_public/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Chiesanuova.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Chiesanuova.public|Chiesanuova.public]] 
 
-### [Chiesanuova.internal](/_internal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Chiesanuova.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Chiesanuova.internal|Chiesanuova.internal]] 
 
-### [Chiesanuova.protect](/_protect/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Chiesanuova.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Chiesanuova.protect|Chiesanuova.protect]] 
 
-### [Chiesanuova.private](/_private/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Chiesanuova.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Chiesanuova.private|Chiesanuova.private]] 
 
-### [Chiesanuova.personal](/_personal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Chiesanuova.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Chiesanuova.personal|Chiesanuova.personal]] 
 
-### [Chiesanuova.secret](/_secret/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Chiesanuova.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Chiesanuova.secret|Chiesanuova.secret]] 
 

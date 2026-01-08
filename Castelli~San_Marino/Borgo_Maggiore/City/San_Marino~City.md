@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 33917
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.45
+dv_has_place_latitude: 43.93
+dv_name: San Marino
+dv_Country: "[[../../../../San_Marino]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.45] 
-[has_place_latitude::43.93] 
-[name::San Marino] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[San_Marino]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [San_Marino~City](/_Standards/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City|San_Marino~City]] 
 
-### [San_Marino~City.public](/_public/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.public|San_Marino~City.public]] 
 
-### [San_Marino~City.internal](/_internal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.internal|San_Marino~City.internal]] 
 
-### [San_Marino~City.protect](/_protect/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.protect|San_Marino~City.protect]] 
 
-### [San_Marino~City.private](/_private/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.private|San_Marino~City.private]] 
 
-### [San_Marino~City.personal](/_personal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.personal|San_Marino~City.personal]] 
 
-### [San_Marino~City.secret](/_secret/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore/City/San_Marino~City.secret|San_Marino~City.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./Borgo_Maggiore/
 
 ## Confidential Links & Embeds: 
 
-### [Borgo_Maggiore](/_Standards/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore|Borgo_Maggiore]] 
 
-### [Borgo_Maggiore.public](/_public/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore.public|Borgo_Maggiore.public]] 
 
-### [Borgo_Maggiore.internal](/_internal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore.internal|Borgo_Maggiore.internal]] 
 
-### [Borgo_Maggiore.protect](/_protect/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore.protect|Borgo_Maggiore.protect]] 
 
-### [Borgo_Maggiore.private](/_private/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore.private|Borgo_Maggiore.private]] 
 
-### [Borgo_Maggiore.personal](/_personal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore.personal|Borgo_Maggiore.personal]] 
 
-### [Borgo_Maggiore.secret](/_secret/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/San_Marino/Castelli~San_Marino/Borgo_Maggiore.secret|Borgo_Maggiore.secret]] 
 
