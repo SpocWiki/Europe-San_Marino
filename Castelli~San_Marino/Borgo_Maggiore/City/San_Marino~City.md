@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.45
 dv_has_place_latitude: 43.93
-dv_name: San Marino
+dv_has_name_: San Marino
 dv_Country: "[[../../../../San_Marino]]"
 ---
 #is_a_/Place  
